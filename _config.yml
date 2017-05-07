@@ -6,7 +6,7 @@ permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
 url: ""     # the base hostname & protocol for your site
-baseurl: "/go-dh"                   # the subpath of your site, e.g. /blog
+baseurl: "/main"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
