@@ -9,10 +9,7 @@ Global Outlook::Digital Humanities (GO::DH) is a Special Interest Group (SIG) of
 ## Contact
 
 Rebel base <br />
-[Yavin] <br />
+[Outreach officer](https://en.wikipedia.org/wiki/Yavin) <br />
 Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Email: [chewy@rebel.com](mailto:chewy@rebel.com)
 
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
