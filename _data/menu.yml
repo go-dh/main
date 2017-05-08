@@ -10,8 +10,8 @@
 - title: "Projects"
   subcategories:
     - subtitle: "Project X"
-      subhref: "/misc/project-x/"
+      subhref: "/project-x/"
     - subtitle: "Project Y"
-      subhref: "/misc/project-y/"
+      subhref: "/project-y/"
 
 
