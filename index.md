@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Global Outlook::Digital Humanities
 permalink: /
 ---
 

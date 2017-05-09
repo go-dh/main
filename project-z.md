@@ -5,6 +5,5 @@ permalink: /project-z/
 ---
 
 
-## Project Z
 
 blaah

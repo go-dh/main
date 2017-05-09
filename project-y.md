@@ -5,6 +5,5 @@ permalink: /project-y/
 ---
 
 
-## Project Y
 
 blaah
