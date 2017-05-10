@@ -2,8 +2,6 @@ title: "GO::DH"
 description: "Information portal for Global Outlook Digital Humanities"
 sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
-permalink: blog/:year/:month/:day/:title
-exclude: ["Makefile", "README.md"]
 
 url: ""     # the base hostname & protocol for your site
 baseurl: "/main"                   # the subpath of your site, e.g. /blog
