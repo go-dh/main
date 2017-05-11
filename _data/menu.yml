@@ -6,6 +6,9 @@
 
 - title: "Archives"
   href: "/archives/"
+  subcategories:
+    -subtitle: "Around DH in 80 Days"
+    -subhref: "/around-dh/"
 
 - title: "Projects"
   href: "/projects/"
