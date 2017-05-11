@@ -9,6 +9,8 @@
   subcategories:
     - subtitle: "Around DH in 80 Days"
       subhref: "/around-dh/"
+    - subtitle: "Rewriting Wikipedia Project"
+      subhref: "/rewriting-wikipedia/"
 
 - title: "Projects"
   href: "/projects/"
