@@ -4,6 +4,4 @@ title: Join
 permalink: /join/
 ---
 
-Download [PDF version](http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf). The PDF should be embedded underneath -- uses Google Docs for embedding and works if the PDF is on dropbox. Works sporadically if PDF is elsewhere too.
-
-{% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
+Membership in GO::DH is open to all who share its goals and interests. The primary method of joining the Special Interest Group is by subscribing to the [mailing list](http://listserv.uleth.ca/mailman/listinfo/globaloutlookdh-l) or following the [GlobalOutlookDH Twitter feed](https://twitter.com/globaloutlookdh). Since the purpose of GO::DH is to promote collaboration and communication among Digital Arts, Humanities, and Cultural Heritage researchers, institutions, and students, your participation doesn't need to stop there. You can also join the executive, propose projects and events, or participate in workshops, conference sessions, and other events organised by our members. If you are not a member already, join the list and say hello!
