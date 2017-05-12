@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Around DH in 80 Days
+lang: en
 permalink: /around-dh-en/
 ---
 
