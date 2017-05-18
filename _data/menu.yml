@@ -15,8 +15,8 @@
 - title: "Projects"
   href: "/projects/"
   subcategories:
-    - subtitle: "Project X"
-      subhref: "/project-x/"
+    - subtitle: "Minimal Computing"
+      subhref: "/minimal-computing/"
     - subtitle: "Project Y"
       subhref: "/project-y/"
     - subtitle: "Project Z"
