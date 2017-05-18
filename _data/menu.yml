@@ -11,6 +11,8 @@
       subhref: "/around-dh-en/"
     - subtitle: "Rewriting Wikipedia Project"
       subhref: "/rewriting-wikipedia/"
+    - subtitle: "ThatCampCaribe"
+      subhref: "/thatcamp-caribe/"
 
 - title: "Projects"
   href: "/projects/"
