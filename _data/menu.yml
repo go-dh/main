@@ -19,8 +19,8 @@
   subcategories:
     - subtitle: "Minimal Computing"
       subhref: "/minimal-computing/"
-    - subtitle: "Project Y"
-      subhref: "/project-y/"
+    - subtitle: "Translation Toolkit"
+      subhref: "/translation-toolkit/"
     - subtitle: "Project Z"
       subhref: "/project-z/"
 
